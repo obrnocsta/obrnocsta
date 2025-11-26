@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno Costa! 👋
+## Olá, eu sou o Bruno Costa! 👋
 
 Sou estudante de Ciência da Computação e desenvolvedor backend em formação, apaixonado em resolver problemas reais usando tecnologia. Estou sempre aprendendo coisas novas, e aplicando Node.js, JavaScript e PostgreSQL em projetos práticos!
 
@@ -9,7 +9,7 @@ Sou estudante de Ciência da Computação e desenvolvedor backend em formação,
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
@@ -24,7 +24,7 @@ Sou estudante de Ciência da Computação e desenvolvedor backend em formação,
 
 ---
 
-## ⭐ Projeto em destaque
+### ⭐ Projeto em destaque
 
 - [wild-horizons-api](https://github.com/obrnocsta/wild-horizons-api)  
   API simples construída apenas com o módulo `http` nativo do Node.js (sem Express ou frameworks externos).  
@@ -34,11 +34,7 @@ Sou estudante de Ciência da Computação e desenvolvedor backend em formação,
 
 ---
 
-## 📊 Estatísticas
-
-<!--
-![obrnocsta](https://github-readme-stats.vercel.app/api?username=obrnocsta&show_icons=true&theme=dracula)
--->
+### 📊 Estatísticas
 
 ![Top Langs](https://img.shields.io/github/languages/top/obrnocsta/wild-horizons-api)
 ![Repo Size](https://img.shields.io/github/repo-size/obrnocsta/wild-horizons-api)
