@@ -26,10 +26,16 @@ Sou estudante de Ciência da Computação e desenvolvedor backend em formação,
 
 ### ⭐ Projeto em destaque
 
-- [wild-horizons-api](https://github.com/obrnocsta/wild-horizons-api)  
-  API simples construída apenas com o módulo `http` nativo do Node.js (sem Express ou frameworks externos).  
-  O objetivo é explorar conceitos fundamentais do backend Node.js, criando rotas REST para prática e fundamentação.  
-  **Stack:** Node.js, JavaScript, testes automatizados, princípios REST.  
+- [from-the-other-side](https://github.com/obrnocsta/from-the-other-side)
+  Aplicação **full-stack sem nenhum framework**, construída 100% com módulos nativos do Node.js.
+  O objetivo foi criar um servidor HTTP completo do zero, servindo arquivos estáticos, expondo uma API RESTful, implementando parsing manual de JSON body, usando EventEmitter e suportando **Server-Sent Events (SSE)** para atualizações em tempo real.
+  **Stack:** Node.js (http, fs/promises, path, events), sanitize-html, ES Modules, JSON persistence.
+  <sub><sup>Tags: #nodejs #backend #scrimba #sse #eventdriven #noframeworks</sup></sub>
+
+- [wild-horizons-api](https://github.com/obrnocsta/wild-horizons-api)
+  API simples construída apenas com o módulo `http` nativo do Node.js (sem Express ou frameworks externos).
+  O objetivo é explorar conceitos fundamentais do backend Node.js, criando rotas REST para prática e fundamentação.
+  **Stack:** Node.js, JavaScript, testes automatizados, princípios REST.
   <sub><sup>Tags: #api #backend #http #node #scrimba</sup></sub>
 
 ---
