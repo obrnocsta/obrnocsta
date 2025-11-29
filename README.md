@@ -16,10 +16,10 @@ Tenho buscado projetos práticos para aprender fazendo — principalmente constr
 **Palavras-chave (ATS):**
 Node.js · Backend · REST API · HTTP Server · EventEmitter · SSE · Docker · PostgreSQL · JavaScript · Clean Code · TDD · Web Security · JSON · Linux · Software Engineering Fundamentals
 
-**Localização:** São Paulo, Brasil
-**Email:** [obrnocsta@gmail.com](mailto:obrnocsta@gmail.com)
-**LinkedIn:** [https://linkedin.com/in/obrnocsta](https://linkedin.com/in/obrnocsta)
-**GitHub:** [https://github.com/obrnocsta](https://github.com/obrnocsta)
+**Localização:** São Paulo, Brasil  
+**Email:** [obrnocsta@gmail.com](mailto:obrnocsta@gmail.com)  
+**LinkedIn:** [https://linkedin.com/in/obrnocsta](https://linkedin.com/in/obrnocsta)  
+**GitHub:** [https://github.com/obrnocsta](https://github.com/obrnocsta)  
 
 ---
 
@@ -67,9 +67,8 @@ Serve como base para testar rotas, modularização e respostas padrão do protoc
 * Rotas REST
 * Servidor HTTP minimalista
 * Organização do código em módulos
-* Testes iniciais com Jest
 
-**Stack:** Node.js, JavaScript, Jest
+**Stack:** Node.js, JavaScript
 
 ---
 
@@ -119,15 +118,15 @@ Serve como base para testar rotas, modularização e respostas padrão do protoc
 
 ## 🎓 Formação e Cursos
 
-![Descomplica](https://img.shields.io/badge/Bacharelado-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-34A853?style=flat-square)
-**Bacharelado em Ciência da Computação — Descomplica**
-*Em andamento — previsão de conclusão: janeiro/2029.*
+![Descomplica](https://img.shields.io/badge/Bacharelado-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-34A853?style=flat-square)  
+**Bacharelado em Ciência da Computação — Descomplica**  
+*Em andamento — previsão de conclusão: janeiro/2029.*  
 
 ---
 
-![Scrimba](https://img.shields.io/badge/Scrimba-Backend%20Developer%20Career%20Path-2E9FFF?style=flat-square\&logo=scrimba\&logoColor=white)
-**The Backend Developer Career Path — Scrimba**
-*Iniciado há 1 mês.*
+![Scrimba](https://img.shields.io/badge/Scrimba-Backend%20Developer%20Career%20Path-2E9FFF?style=flat-square\&logo=scrimba\&logoColor=white)  
+**The Backend Developer Career Path — Scrimba**  
+*Iniciado há 1 mês.*  
 Conteúdos principais: Node.js, APIs REST, segurança, streams, HTTP, arquitetura backend e deploy.
 
 ---
