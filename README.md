@@ -27,15 +27,15 @@ Node.js · Express.js · NestJS · TypeScript · Backend · REST API · HTTP Ser
 
 ## ⭐ Projetos em Destaque
 
-### 🟩 **From the Other Side**
+### 🟩 **Build A Routed Site**
 
 ![Node.js Native](https://img.shields.io/badge/Node.js-Native%20HTTP-blue?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES%20Modules-yellow?style=flat-square)
 
-🔗 **Repositório:** [https://github.com/obrnocsta/from-the-other-side](https://github.com/obrnocsta/from-the-other-side)
+🔗 **Repositório:** [https://github.com/obrnocsta/build-a-routed-site](https://github.com/obrnocsta/build-a-routed-site)
 
 **Descrição:**
-Plataforma para compartilhar encontros paranormais, construída usando **somente Node.js nativo**, sem frameworks. O objetivo foi entender como o Node funciona "por baixo do capô": roteamento manual, leitura de arquivos, tratamento de erros e sanitização de input.
+Uma aplicação web full-stack construída com Node.js que permite aos usuários compartilhar e explorar avistamentos paranormais. A plataforma possui um backend com API REST e um frontend interativo com streaming de notícias em tempo real.
 
 **O que foi desenvolvido:**
 - Servidor HTTP do zero
