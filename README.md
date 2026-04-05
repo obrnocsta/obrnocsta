@@ -27,24 +27,25 @@ Node.js · Express.js · NestJS · TypeScript · Backend · REST API · HTTP Ser
 
 ## ⭐ Projetos em Destaque
 
-### 🟩 **Build A Routed Site**
+### 🎯 **Dev Match**
 
-![Node.js Native](https://img.shields.io/badge/Node.js-Native%20HTTP-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES%20Modules-yellow?style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-Framework-E0234E?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-Typed-3178C6?style=flat-square)
+![Jest](https://img.shields.io/badge/Jest-Testing-C21325?style=flat-square)
 
-🔗 **Repositório:** [https://github.com/obrnocsta/build-a-routed-site](https://github.com/obrnocsta/build-a-routed-site)
+🔗 **Repositório:** [https://github.com/obrnocsta/dev-match](https://github.com/obrnocsta/dev-match)
 
 **Descrição:**
-Uma aplicação web full-stack construída com Node.js que permite aos usuários compartilhar e explorar avistamentos paranormais. A plataforma possui um backend com API REST e um frontend interativo com streaming de notícias em tempo real.
+Aplicação de matching para desenvolvedores construída com **NestJS**, um framework robusto baseado em padrões de arquitetura sólida (arquitetura em camadas, injeção de dependência, módulos). Inclui testes automatizados com Jest.
 
 **O que foi desenvolvido:**
-- Servidor HTTP do zero
-- Parsing manual do corpo da requisição (JSON)
-- Sanitização de input com `sanitize-html` (prevenção a XSS)
-- Servir HTML/CSS/JS sem frameworks
-- Persistência com JSON
+- Framework NestJS com arquitetura modular
+- Tipagem forte com TypeScript
+- Testes unitários e e2e com Jest
+- Linting com ESLint e formatação com Prettier
+- CLI NestJS para scaffolding
 
-**Stack:** Node.js, sanitize-html, ES Modules
+**Stack:** NestJS, TypeScript, Jest, ESLint, Prettier, RxJS
 
 ---
 
@@ -71,25 +72,24 @@ Loja virtual de vinis clássicos, demonstrando padrões reais de desenvolvimento
 
 ---
 
-### 🎯 **Dev Match**
+### 🟩 **Build A Routed Site**
 
-![NestJS](https://img.shields.io/badge/NestJS-Framework-E0234E?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-Typed-3178C6?style=flat-square)
-![Jest](https://img.shields.io/badge/Jest-Testing-C21325?style=flat-square)
+![Node.js Native](https://img.shields.io/badge/Node.js-Native%20HTTP-blue?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES%20Modules-yellow?style=flat-square)
 
-🔗 **Repositório:** [https://github.com/obrnocsta/dev-match](https://github.com/obrnocsta/dev-match)
+🔗 **Repositório:** [https://github.com/obrnocsta/build-a-routed-site](https://github.com/obrnocsta/build-a-routed-site)
 
 **Descrição:**
-Aplicação de matching para desenvolvedores construída com **NestJS**, um framework robusto baseado em padrões de arquitetura sólida (arquitetura em camadas, injeção de dependência, módulos). Inclui testes automatizados com Jest.
+Uma aplicação web full-stack construída com Node.js que permite aos usuários compartilhar e explorar avistamentos paranormais. A plataforma possui um backend com API REST e um frontend interativo com streaming de notícias em tempo real.
 
 **O que foi desenvolvido:**
-- Framework NestJS com arquitetura modular
-- Tipagem forte com TypeScript
-- Testes unitários e e2e com Jest
-- Linting com ESLint e formatação com Prettier
-- CLI NestJS para scaffolding
+- Servidor HTTP do zero
+- Parsing manual do corpo da requisição (JSON)
+- Sanitização de input com `sanitize-html` (prevenção a XSS)
+- Servir HTML/CSS/JS sem frameworks
+- Persistência com JSON
 
-**Stack:** NestJS, TypeScript, Jest, ESLint, Prettier, RxJS
+**Stack:** Node.js, sanitize-html, ES Modules
 
 ---
 
