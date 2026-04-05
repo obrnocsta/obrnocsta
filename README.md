@@ -72,12 +72,12 @@ Loja virtual de vinis clássicos, demonstrando padrões reais de desenvolvimento
 
 ---
 
-### 🟩 **Build A Routed Site**
+### 🟩 **From The Other Side**
 
 ![Node.js Native](https://img.shields.io/badge/Node.js-Native%20HTTP-blue?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES%20Modules-yellow?style=flat-square)
 
-🔗 **Repositório:** [https://github.com/obrnocsta/build-a-routed-site](https://github.com/obrnocsta/build-a-routed-site)
+🔗 **Repositório:** [https://github.com/obrnocsta/from-the-other-side](https://github.com/obrnocsta/from-the-other-side)
 
 **Descrição:**
 Uma aplicação web full-stack construída com Node.js que permite aos usuários compartilhar e explorar avistamentos paranormais. A plataforma possui um backend com API REST e um frontend interativo com streaming de notícias em tempo real.
