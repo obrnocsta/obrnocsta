@@ -180,16 +180,6 @@ Caminho abrangente para me tornar desenvolvedor backend full-stack. Completei: W
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img src="https://img.shields.io/github/languages/top/obrnocsta/from-the-other-side" />
-  <img src="https://img.shields.io/github/repo-size/obrnocsta/from-the-other-side" />
-  <img src="https://github-readme-stats.vercel.app/api?username=obrnocsta&show_icons=true&theme=dark&count_private=true" />
-</div>
-
----
-
 ## 🤝 Contato & Networking
 
 Estou sempre aberto a trocar ideias, colaborar em projetos e receber feedback:
