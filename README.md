@@ -1,4 +1,4 @@
-# <div align="center">👋 Bruno Costa — Desenvolvedor Backend | Node.js</div>
+# <div align="center">👋 Bruno Costa da Silva - Desenvolvedor | Node.js</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
