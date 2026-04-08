@@ -93,28 +93,6 @@ Uma aplicação web full-stack construída com Node.js que permite aos usuários
 
 ---
 
-### 🌲 **Build a FullStack Express App**
-
-![Express](https://img.shields.io/badge/Express-Backend-000000?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-App-blue?style=flat-square)
-
-🔗 **Repositório:** [https://github.com/obrnocsta/build-a-fullstack-express-app](https://github.com/obrnocsta/build-a-fullstack-express-app)
-
-**Descrição:**
-Aplicação fullstack que conecta frontend com backend usando Express. Demonstra como servir arquivos estáticos, configurar rotas, construir banco de dados e adicionar funcionalidades reais como dropdowns e busca.
-
-**O que foi desenvolvido:**
-- Servidor Express com rotas RESTful
-- Banco de dados SQLite
-- Servir arquivos estáticos (HTML/CSS/JS)
-- Funcionalidades de frontend integradas com backend
-- Estrutura modular
-
-**Stack:** Express.js, SQLite, JavaScript
-
----
-
 ### 🌐 **Wild Horizons API**
 
 ![Node.js Native](https://img.shields.io/badge/Node.js-HTTP%20Native-green?style=flat-square)
