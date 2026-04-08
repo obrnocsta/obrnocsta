@@ -107,15 +107,6 @@ API REST simples feita para praticar os fundamentos do backend com HTTP puro do 
 
 ---
 
-### 📚 Outros Projetos
-
-- **[The Wild Horizons API](https://github.com/obrnocsta/the-wild-horizons-api)** — API sobre destinos de viagem usando Node.js nativo
-- **[API Auth Express TypeScript](https://github.com/obrnocsta/api-auth-express-ts)** — API com CORS e tipagem TypeScript usando Express
-- **[Service End-to-End](https://github.com/obrnocsta/service-end-to-end)** — Serviço TypeScript puro, sem dependências externas (apenas devDeps)
-- **[Retro Ride](https://github.com/obrnocsta/retro-ride)** — Aplicação com PGlite (banco de dados SQL embarcado em JavaScript)
-
----
-
 ## 📚 O que estou estudando agora
 
 Com base no **The Backend Developer Career Path da Scrimba**, estou aprofundando conhecimentos em:
